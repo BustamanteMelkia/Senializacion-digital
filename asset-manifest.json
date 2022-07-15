@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Senializacion-digital/static/css/main.07dc94cc.css",
+    "main.js": "/Senializacion-digital/static/js/main.1c7bd4af.js",
+    "static/js/787.cf5d96bf.chunk.js": "/Senializacion-digital/static/js/787.cf5d96bf.chunk.js",
+    "index.html": "/Senializacion-digital/index.html",
+    "main.07dc94cc.css.map": "/Senializacion-digital/static/css/main.07dc94cc.css.map",
+    "main.1c7bd4af.js.map": "/Senializacion-digital/static/js/main.1c7bd4af.js.map",
+    "787.cf5d96bf.chunk.js.map": "/Senializacion-digital/static/js/787.cf5d96bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07dc94cc.css",
+    "static/js/main.1c7bd4af.js"
+  ]
+}
