@@ -1,6 +1,7 @@
 export const TIMER = 5000;
 export const SUBARRAY_SIZE = 5;
 export const IMAGES = ["0.png", "1.jpg", "2.jpg", "3.jpg"];
+export const BASE_URL = window.location.href;
 
 /**
  * Return a random number between {min} and {max}
